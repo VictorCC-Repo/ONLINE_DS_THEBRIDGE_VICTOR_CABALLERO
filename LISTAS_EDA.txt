@@ -1,0 +1,12 @@
+Problemas a resolver:
+La durabilidad de un componente instalado en un avión
+Que averías se repiten más cada mes
+Que averías se repiten más por estación del año
+Supermercado tiene mejores precios por día/semana/mes/año
+
+Conjuntos de datos:
+Precios de alimentos en supermercados
+Clima en los dos últimos años, inclueyndo avisos por tormenta, humedad,etc..
+Número de vuelos por flota
+Durabilidad de los componentes instalados en aviones.
+
